@@ -1,4 +1,4 @@
-Gradient Boosting Regressor for Predicting Gym, Pool, and Other Fitness Activities
+Gradient Boosting Regressor for Predicting Gym, Pool, and Other Fitness Activities.
 
 This project demonstrates how to use the Gradient Boosting Regressor algorithm to predict the likelihood of gym, pool, and other fitness center activities based on user data. The analysis includes feature importance visualization and performance evaluation metrics such as R², MSE, and RMSE.
 
